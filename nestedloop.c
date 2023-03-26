@@ -5,6 +5,7 @@ main - entry point
 The program will print out # in square shape
 this will be done using a nested for loop
 return 0 - succesful exe
+
 */
 
 int main()
