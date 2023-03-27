@@ -10,9 +10,11 @@ return 0 - succesful exe
 
 int main()
 {
-  for (int i = 0; i < 4; i++)
+  int height = 5;
+  int row = 20;
+  for (int i = 0; i < height; i++)
   {
-    for (int j = 0; j < 20; j++)
+    for (int j = 0; j < row; j++)
     {
       printf("#");
     }
